@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PortiaMasibi
 - 👀 I’m interested in Data Analytics & Engineering applications in the Chemical Engineering Fields.
-- 🌱 I’m currently learning Data Analytics (M.Eng.) at the University of Toronto 
+- 🌱 I’m currently learning Data Analytics (M.Eng.) at the University of Toronto. I have a B.Eng. in Chemical Engineering. 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me portia.masibi@outlook.com
 
